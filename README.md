@@ -1,5 +1,5 @@
 # EN
-## Hello, I'm [Your Name]! 😊
+## Hello, I'm Danila Kovalenko! 😊
 
 Welcome to my GitHub profile! 🚀
 

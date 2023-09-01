@@ -1,4 +1,4 @@
-#EN
+# EN
 ## Hello, I'm [Your Name]! 😊
 
 Welcome to my GitHub profile! 🚀

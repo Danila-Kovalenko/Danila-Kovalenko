@@ -19,7 +19,7 @@ I take pride in qualities that help me in development:
 ### Contact Me
 If you have questions, suggestions, or just want to chat, please don't hesitate to reach out to me.
 
-- 📧 Email: danilakovalenko0606@gmail.com
+- 📧 Email: danila13kovalenko@gmail.com
 - 💼 LinkedIn: [Kovalenko Danila](https://www.linkedin.com/in/kovalenko-danila-923948257/)
 
 Thank you for visiting my profile! I hope we can collaborate on exciting projects. 
@@ -45,7 +45,7 @@ Ich bin stolz auf Qualitäten, die mir in der Entwicklung helfen:
 ### Kontaktieren Sie mich
 Wenn Sie Fragen, Vorschläge haben oder einfach nur plaudern möchten, zögern Sie bitte nicht, mich zu kontaktieren.
 
-- 📧 Email: danilakovalenko0606@gmail.com
+- 📧 Email: danila13kovalenko@gmail.com
 - 💼 LinkedIn: [Kovalenko Danila](https://www.linkedin.com/in/kovalenko-danila-923948257/)
 
 Vielen Dank für Ihren Besuch auf meinem Profil! Ich hoffe, wir können an spannenden Projekten zusammenarbeiten. 

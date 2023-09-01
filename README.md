@@ -8,7 +8,7 @@ I'm a backend developer with experience in learning and working on web developme
 
 ### My Achievements
 - ✅ Completed the Yandex Practicum course in backend development.
-- ✅ Completed the Coursera course in backend development. (https://www.coursera.org/account/accomplishments/professional-cert/CQMV5WWGFETW)).
+- ✅ Completed the Coursera course in backend development. [My certifikate](https://www.coursera.org/account/accomplishments/professional-cert/CQMV5WWGFETW).
 
 ### My Qualities
 I take pride in qualities that help me in development:
@@ -34,7 +34,7 @@ Ich bin ein Backend-Entwickler mit Erfahrung im Lernen und Arbeiten an Webentwic
 
 ### Meine Erfolge
 - ✅ Abschluss des Kurses Yandex Practicum in Backend-Entwicklung.
-- ✅ Abschluss des Coursera-Kurses in Backend-Entwicklung (https://www.coursera.org/account/accomplishments/professional-cert/CQMV5WWGFETW).
+- ✅ Abschluss des Coursera-Kurses in Backend-Entwicklung [Mein Zertifikat](https://www.coursera.org/account/accomplishments/professional-cert/CQMV5WWGFETW).
 
 ### Meine Qualitäten
 Ich bin stolz auf Qualitäten, die mir in der Entwicklung helfen:
@@ -48,4 +48,4 @@ Wenn Sie Fragen, Vorschläge haben oder einfach nur plaudern möchten, zögern S
 - 📧 Email: danilakovalenko0606@gmail.com
 - 💼 LinkedIn: [Kovalenko Danila](https://www.linkedin.com/in/kovalenko-danila-923948257/)
 
-Vielen Dank für Ihren Besuch auf meinem Profil! Ich hoffe, wir können an spannenden Projekten zusammenarbeiten. 😊
+Vielen Dank für Ihren Besuch auf meinem Profil! Ich hoffe, wir können an spannenden Projekten zusammenarbeiten. 

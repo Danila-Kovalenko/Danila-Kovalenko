@@ -3,18 +3,15 @@
 ## Hallo, ich bin Danila Kovalenko! 🙌
 
 ### Willkommen auf meinem GitHub-Profil! 🚀
-
 ### Hier können Sie mein LinkedIn finden:
 
 <p><a href="https://www.linkedin.com/in/kovalenko-danila-923948257/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 ### Über mich
 Ich bin ein Backend-Entwickler mit Erfahrung im Lernen und Arbeiten an Webentwicklungsprojekten. Ich habe den Kurs Yandex Practicum in Backend-Entwicklung abgeschlossen und erfolgreich den Coursera-Kurs in Backend-Entwicklung absolviert. Mein Ziel ist es, hochwertige Software zu erstellen und das Internet besser zu machen!
-
 ### Meine Erfolge
 - ✅ Abschluss des Kurses Yandex Practicum in Backend-Entwicklung.
 - ✅ Abschluss des Coursera-Kurses in Backend-Entwicklung. [Hier ist mein Zertifikat](https://www.coursera.org/account/accomplishments/professional-cert/CQMV5WWGFETW).
-
 <br><br>
 <h3>My Repositories</h3>
 

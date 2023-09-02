@@ -10,43 +10,63 @@ Ich bin ein Backend-Entwickler mit Erfahrung im Lernen und Arbeiten an Webentwic
 ### Meine Erfolge
 - ✅ Abschluss des Kurses Yandex Practicum in Backend-Entwicklung.
 - ✅ Abschluss des Coursera-Kurses in Backend-Entwicklung. [Hier ist mein Zertifikat](https://www.coursera.org/account/accomplishments/professional-cert/CQMV5WWGFETW).
-<br><br>
-<h3>My Repositories</h3>
+
+<h3>Meine Repositories</h3>
 
 <table width=100%>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Description</b></td>
+      <td><b>🎁 Projekte</b></td>
+      <td><b>⭐ Beschreibung</b></td>
     </tr>
   </thead>
   <tbody>
 
 <tr>
-      <td><a href="https://github.com/Daniel-Kovalenko/Parcing_Projects"><b>Here are my parcing projects</b></a></td>
-      <td><b>My parcing projects</b></td>
+      <td><a href="https://github.com/Daniel-Kovalenko/Parcing_Projects"><b>Hier sind meine Parsing-Projekte</b></a></td>
+      <td><b>Meine Parsing-Projekte</b></td>
 </tr>    
 <tr>
-      <td><a href="https://github.com/Daniel-Kovalenko/My_Machine_Lerning"><b>My machine learning project</b></a></td>
-      <td><b>My machine learning project</b></td>
+      <td><a href="https://github.com/Daniel-Kovalenko/My_Machine_Lerning"><b>Mein maschinelles Lernprojekt</b></a></td>
+      <td><b>Mein maschinelles Lernprojekt</b></td>
 </tr>
 <tr>
-      <td><a href="https://github.com/Daniel-Kovalenko/Yatube_Project"><b>Yatube_Project</b></a></td>
-      <td><b>A social network for online blogs and posts</b></td>
+      <td><a href="https://github.com/Daniel-Kovalenko/Yatube_Project"><b>Yatube-Projekt</b></a></td>
+      <td><b>Ein soziales Netzwerk für Online-Blogs und Beiträge</b></td>
 </tr>
 <tr>
-      <td><a href="https://github.com/Danila-Kovalenko/YaMDb_Project"><b>YaMDb_Project</b></a></td>
-      <td><b>A site, where users can write reviews about  differnt movies, books etc.</b></td>
+      <td><a href="https://github.com/Danila-Kovalenko/YaMDb_Project"><b>YaMDb-Projekt</b></a></td>
+      <td><b>Eine Website, auf der Benutzer Bewertungen zu verschiedenen Filmen, Büchern usw. schreiben können</b></td>
 </tr>	  
-    <tr>
-      <td><a href="https://github.com/Danila-Kovalenko/Recipe_Posting_SIte"><b>Foodgram_Project</b></a></td>
-      <td><b>A site, where users can post and talk about recepies</b></td>
-    </tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/Charity_Site_Backend"><b>Charity-Projekt</b></a></td>
+      <td><b>Eine Website, auf der Administratoren ein Geldbeschaffungsprojekt für wohltätige Zwecke starten können</b></td>
+</tr>	
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/Recipe_Posting_SIte"><b>Foodgram-Projekt</b></a></td>
+      <td><b>Eine Website, auf der Benutzer Rezepte posten und darüber sprechen können</b></td>
+</tr>
   </tbody>
 </table>
+
   
 
 ### Meine Entwicklung-Kentnisse:
+
+#### Benutzter-Kentnisse
+##### MS Office and MS Excel Kentnisse, ein bewanderter PC Benutzer
+
+#### Frameworks
+##### Django, FastAPI und Flask
+
+#### SQL
+##### MySQL, SQL, NoSQL, PostgreSQL
+
+#### Docker
+##### Docker, Kubernetes, OpenShift
+
+#### Prpgrammierungssprachen
+##### Python, Shell, HTML
 
 
 ### Kontaktieren Sie mich

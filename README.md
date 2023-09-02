@@ -1,8 +1,6 @@
 
 # DE
 ## Hallo, ich bin Danila Kovalenko! 🙌
-
-### Willkommen auf meinem GitHub-Profil! 🚀
 ### Hier können Sie mein LinkedIn finden:
 
 <p><a href="https://www.linkedin.com/in/kovalenko-danila-923948257/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>

@@ -35,8 +35,8 @@ Ich bin ein Backend-Entwickler mit Erfahrung im Lernen und Arbeiten an Webentwic
       <td><b>Yatube_Project</b></td>
 </tr>
 <tr>
-      <td><a href="https://github.com/akylson/simple_face_detection"><b>Simple Face-Detection with OpenCV</b></a></td>
-      <td><a href="https://github.com/akylson/simple_face_detection/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/simple_face_detection?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/Danila-Kovalenko/YaMDb_Project"><b>YaMDb_Project</b></a></td>
+      <td><b>YaMDb_Project</b></td>
 </tr>	  
     <tr>
       <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects"><b>Yandex.Praktikum Data-Science Projects</b></a></td>

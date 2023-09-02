@@ -1,4 +1,3 @@
-
 # DE
 ## Hallo, ich bin Danila Kovalenko! 🙌
 ### Hier können Sie mein LinkedIn finden:
@@ -76,26 +75,73 @@ Vielen Dank für Ihren Besuch auf meinem Profil! Ich hoffe, wir können an spann
 
 # EN
 ## Hello, I'm Danila Kovalenko! 🙌
+### You can find my LinkedIn here:
 
-Welcome to my GitHub profile! 🚀
+<p><a href="https://www.linkedin.com/in/kovalenko-danila-923948257/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 ### About Me
-I'm a backend developer with experience in learning and working on web development projects. I have completed the Yandex Practicum course in backend development and successfully completed the Coursera course in backend development. My goal is to create high-quality software and make the internet better!
-
+I am a backend developer with experience in learning and working on web development projects. I have completed the Yandex Practicum course in backend development and successfully completed the Coursera course in backend development. My goal is to create high-quality software and make the internet better!
 ### My Achievements
-- ✅ Completed the Yandex Practicum course in backend development.
-- ✅ Completed the Coursera course in backend development. [Here's my certifikate](https://www.coursera.org/account/accomplishments/professional-cert/CQMV5WWGFETW).
+✅ Completion of the Yandex Practicum course in backend development.
+✅ Completion of the Coursera course in backend development. Here is my certificate.
 
-### My Qualities
-I take pride in qualities that help me in development:
-- 💼 Responsibility: I always fulfill my commitments on time and with diligence.
-- 💪 Hardworking: I'm ready to work diligently to achieve set goals.
-- 🤝 Team Spirit: I value collaboration and can work effectively in a team.
+<h3>My Repositories</h3>
+<table width=100%>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Description</b></td>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+      <td><a href="https://github.com/Daniel-Kovalenko/Parcing_Projects"><b>Here are my parsing projects</b></a></td>
+      <td><b>My parsing projects</b></td>
+</tr>    
+<tr>
+      <td><a href="https://github.com/Daniel-Kovalenko/My_Machine_Lerning"><b>My machine learning project</b></a></td>
+      <td><b>My machine learning project</b></td>
+</tr>
+<tr>
+      <td><a href="https://github.com/Daniel-Kovalenko/Yatube_Project"><b>Yatube Project</b></a></td>
+      <td><b>A social network for online blogs and posts</b></td>
+</tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/YaMDb_Project"><b>YaMDb Project</b></a></td>
+      <td><b>A website where users can write reviews about different movies, books, etc.</b></td>
+</tr>	  
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/Charity_Site_Backend"><b>Charity Project</b></a></td>
+      <td><b>A website where administrators can start a fundraising project for charity</b></td>
+</tr>	
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/Recipe_Posting_SIte"><b>Foodgram Project</b></a></td>
+      <td><b>A website where users can post and discuss recipes</b></td>
+</tr>
+  </tbody>
+</table>
+
+### My Development Skills:
+
+#### User Skills:
+###### MS Office and MS Excel skills, proficient PC user
+
+#### Frameworks:
+###### Django, FastAPI, and Flask
+
+#### SQL:
+###### MySQL, SQL, NoSQL, PostgreSQL
+
+#### Docker:
+######Docker, Kubernetes, OpenShift
+
+#### Programming Languages:
+###### Python, Shell, HTML
 
 ### Contact Me
-If you have questions, suggestions, or just want to chat, please don't hesitate to reach out to me.
 
-- 📧 Email: danila13kovalenko@gmail.com
-- 💼 LinkedIn: [Kovalenko Danila](https://www.linkedin.com/in/kovalenko-danila-923948257/)
+If you have any questions, suggestions, or just want to chat, please feel free to contact me.
 
-Thank you for visiting my profile! I hope we can collaborate on exciting projects. 
+📧 Email: danila13kovalenko@gmail.com
+
+Thank you for visiting my profile! I hope we can collaborate on exciting projects together.

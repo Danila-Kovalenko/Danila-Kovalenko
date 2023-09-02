@@ -39,8 +39,8 @@ Ich bin ein Backend-Entwickler mit Erfahrung im Lernen und Arbeiten an Webentwic
       <td><b>YaMDb_Project</b></td>
 </tr>	  
     <tr>
-      <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects"><b>Yandex.Praktikum Data-Science Projects</b></a></td>
-      <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/yandex-praktikum-data-science-projects?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/Danila-Kovalenko/Recipe_Posting_SIte"><b>Foodgram_Project</b></a></td>
+      <td><b>A site, where userscan post and talk about recepies</b></td>
     </tr>
   </tbody>
 </table>

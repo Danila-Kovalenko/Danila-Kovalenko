@@ -2,7 +2,11 @@
 # DE
 ## Hallo, ich bin Danila Kovalenko! 🙌
 
-Willkommen auf meinem GitHub-Profil! 🚀
+### Willkommen auf meinem GitHub-Profil! 🚀
+
+### Hier können Sie mein LinkedIn finden:
+
+<p><a href="https://www.linkedin.com/in/kovalenko-danila-923948257/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 ### Über mich
 Ich bin ein Backend-Entwickler mit Erfahrung im Lernen und Arbeiten an Webentwicklungsprojekten. Ich habe den Kurs Yandex Practicum in Backend-Entwicklung abgeschlossen und erfolgreich den Coursera-Kurs in Backend-Entwicklung absolviert. Mein Ziel ist es, hochwertige Software zu erstellen und das Internet besser zu machen!
@@ -11,17 +15,49 @@ Ich bin ein Backend-Entwickler mit Erfahrung im Lernen und Arbeiten an Webentwic
 - ✅ Abschluss des Kurses Yandex Practicum in Backend-Entwicklung.
 - ✅ Abschluss des Coursera-Kurses in Backend-Entwicklung. [Hier ist mein Zertifikat](https://www.coursera.org/account/accomplishments/professional-cert/CQMV5WWGFETW).
 
-### Meine Qualitäten
-Ich bin stolz auf Qualitäten, die mir in der Entwicklung helfen:
-- 💼 Verantwortung: Ich erfülle immer meine Verpflichtungen pünktlich und gewissenhaft.
-- 💪 Fleiß: Ich bin bereit, fleißig zu arbeiten, um gesetzte Ziele zu erreichen.
-- 🤝 Teamgeist: Ich schätze die Zusammenarbeit und kann effektiv im Team arbeiten.
+<br><br>
+<h3>My Repositories</h3>
+
+<table width=100%>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Description</b></td>
+    </tr>
+  </thead>
+  <tbody>
+
+<tr>
+      <td><a href="https://github.com/Daniel-Kovalenko/Parcing_Projects"><b>My parcing projects</b></a></td>
+      <td><b>My parcing projects</b></td>
+</tr>    
+<tr>
+      <td><a href="https://github.com/akylson/iris-prediction-with-django"><b>Iris-Prediction-with-Django</b></a></td>
+      <td><a href="https://github.com/akylson/iris-prediction-with-django/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/iris-prediction-with-django?style=flat-square&labelColor=343b41"/></a></td>
+</tr>
+<tr>
+      <td><a href="https://github.com/akylson/real-time-sign-language-detection"><b>Real-Time Sign-Language Detection</b></a></td>
+      <td><a href="https://github.com/akylson/real-time-sign-language-detection/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/real-time-sign-language-detection?style=flat-square&labelColor=343b41"/></a></td>
+</tr>
+<tr>
+      <td><a href="https://github.com/akylson/simple_face_detection"><b>Simple Face-Detection with OpenCV</b></a></td>
+      <td><a href="https://github.com/akylson/simple_face_detection/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/simple_face_detection?style=flat-square&labelColor=343b41"/></a></td>
+</tr>	  
+    <tr>
+      <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects"><b>Yandex.Praktikum Data-Science Projects</b></a></td>
+      <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/yandex-praktikum-data-science-projects?style=flat-square&labelColor=343b41"/></a></td>
+    </tr>
+  </tbody>
+</table>
+  
+
+### Meine Entwicklung-Kentnisse:
+
 
 ### Kontaktieren Sie mich
 Wenn Sie Fragen, Vorschläge haben oder einfach nur plaudern möchten, zögern Sie bitte nicht, mich zu kontaktieren.
 
 - 📧 Email: danila13kovalenko@gmail.com
-- 💼 LinkedIn: [Kovalenko Danila](https://www.linkedin.com/in/kovalenko-danila-923948257/)
 
 Vielen Dank für Ihren Besuch auf meinem Profil! Ich hoffe, wir können an spannenden Projekten zusammenarbeiten. 
 

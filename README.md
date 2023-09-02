@@ -32,15 +32,15 @@ Ich bin ein Backend-Entwickler mit Erfahrung im Lernen und Arbeiten an Webentwic
 </tr>
 <tr>
       <td><a href="https://github.com/Daniel-Kovalenko/Yatube_Project"><b>Yatube_Project</b></a></td>
-      <td><b>Yatube_Project</b></td>
+      <td><b>A social network for online blogs and posts</b></td>
 </tr>
 <tr>
       <td><a href="https://github.com/Danila-Kovalenko/YaMDb_Project"><b>YaMDb_Project</b></a></td>
-      <td><b>YaMDb_Project</b></td>
+      <td><b>A site, where users can write reviews about  differnt movies, books etc.</b></td>
 </tr>	  
     <tr>
       <td><a href="https://github.com/Danila-Kovalenko/Recipe_Posting_SIte"><b>Foodgram_Project</b></a></td>
-      <td><b>A site, where userscan post and talk about recepies</b></td>
+      <td><b>A site, where users can post and talk about recepies</b></td>
     </tr>
   </tbody>
 </table>

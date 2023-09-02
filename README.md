@@ -52,19 +52,19 @@ Ich bin ein Backend-Entwickler mit Erfahrung im Lernen und Arbeiten an Webentwic
 ### Meine Entwicklung-Kentnisse:
 
 #### Benutzter-Kentnisse
-##### MS Office and MS Excel Kentnisse, ein bewanderter PC Benutzer
+###### MS Office and MS Excel Kentnisse, ein bewanderter PC Benutzer
 
 #### Frameworks
-####### Django, FastAPI und Flask
+###### Django, FastAPI und Flask
 
 #### SQL
-####### MySQL, SQL, NoSQL, PostgreSQL
+###### MySQL, SQL, NoSQL, PostgreSQL
 
 #### Docker
-####### Docker, Kubernetes, OpenShift
+###### Docker, Kubernetes, OpenShift
 
 #### Prpgrammierungssprachen
-####### Python, Shell, HTML
+###### Python, Shell, HTML
 
 
 ### Kontaktieren Sie mich

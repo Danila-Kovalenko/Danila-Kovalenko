@@ -27,8 +27,8 @@ Ich bin ein Backend-Entwickler mit Erfahrung im Lernen und Arbeiten an Webentwic
       <td><b>My parcing projects</b></td>
 </tr>    
 <tr>
-      <td><a href="https://github.com/Daniel-Kovalenko/My_Machine_Lerning"><b>My machine learnin project</b></a></td>
-      <td><b>My machine learnin project</b></td>
+      <td><a href="https://github.com/Daniel-Kovalenko/My_Machine_Lerning"><b>My machine learning project</b></a></td>
+      <td><b>My machine learning project</b></td>
 </tr>
 <tr>
       <td><a href="https://github.com/akylson/real-time-sign-language-detection"><b>Real-Time Sign-Language Detection</b></a></td>

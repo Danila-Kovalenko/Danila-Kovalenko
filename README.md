@@ -49,20 +49,23 @@ Ich bin ein Backend-Entwickler mit Erfahrung im Lernen und Arbeiten an Webentwic
 </table>
 
 ### Meine Entwicklung-Kentnisse:
-
 #### Benutzter-Kentnisse
 ###### MS Office and MS Excel Kentnisse, ein bewanderter PC Benutzer
+
 
 #### Frameworks
 ###### Django, FastAPI und Flask
 
+
 #### SQL
 ###### MySQL, SQL, NoSQL, PostgreSQL
+
 
 #### Docker
 ###### Docker, Kubernetes, OpenShift
 
-#### Prpgrammierungssprachen
+
+#### Programmierungssprachen
 ###### Python, Shell, HTML
 
 
@@ -122,18 +125,21 @@ I am a backend developer with experience in learning and working on web developm
 </table>
 
 ### My Development Skills:
-
 #### User Skills:
 ###### MS Office and MS Excel skills, proficient PC user
+
 
 #### Frameworks:
 ###### Django, FastAPI, and Flask
 
+
 #### SQL:
 ###### MySQL, SQL, NoSQL, PostgreSQL
 
+
 #### Docker:
-######Docker, Kubernetes, OpenShift
+###### Docker, Kubernetes, OpenShift
+
 
 #### Programming Languages:
 ###### Python, Shell, HTML

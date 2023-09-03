@@ -1,5 +1,5 @@
 # DE
-## Hallo, ich bin Danila Kovalenko! 🙌
+## Hallo, ich bin Danila Kovalenko! 
 ### Hier können Sie mein LinkedIn finden:
 
 <p><a href="https://www.linkedin.com/in/kovalenko-danila-923948257/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
@@ -77,7 +77,7 @@ Wenn Sie Fragen, Vorschläge haben oder einfach nur plaudern möchten, zögern S
 Vielen Dank für Ihren Besuch auf meinem Profil! Ich hoffe, wir können an spannenden Projekten zusammenarbeiten. 
 
 # EN
-## Hello, I'm Danila Kovalenko! 🙌
+## Hello, I'm Danila Kovalenko! 
 ### You can find my LinkedIn here:
 
 <p><a href="https://www.linkedin.com/in/kovalenko-danila-923948257/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>

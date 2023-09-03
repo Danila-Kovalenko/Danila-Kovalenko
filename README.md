@@ -50,7 +50,7 @@ Ich bin ein Backend-Entwickler mit Erfahrung im Lernen und Arbeiten an Webentwic
 
 ### Meine Entwicklung-Kentnisse:
 #### Benutzter-Kentnisse
-###### MS Office and MS Excel Kentnisse, ein bewanderter PC Benutzer
+  ######   -MS Office and MS Excel Kentnisse, ein bewanderter PC Benutzer
 
 
 #### Frameworks

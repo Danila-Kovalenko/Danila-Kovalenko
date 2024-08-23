@@ -27,7 +27,7 @@ Ich bin ein Backend-Entwickler mit Erfahrung im Lernen und Arbeiten an Webentwic
       <td><b>Meine Parsing-Projekte</b></td>
 </tr>    
 <tr>
-      <td><a href="https://github.com/Daniel-Kovalenko/My_Machine_Learning"><b>Mein Machine Learning Projekte</b></a></td>
+      <td><a href="https://github.com/Danila-Kovalenko/My_Machine_Learning"><b>Mein Machine Learning Projekte</b></a></td>
       <td><b>Mein Machine Learning Projekte </b></td>
 </tr>
 <tr>
@@ -104,7 +104,7 @@ I am a backend developer with experience in learning and working on web developm
       <td><b>My parsing projects</b></td>
 </tr>    
 <tr>
-      <td><a href="https://github.com/Daniel-Kovalenko/My_Machine_Learning"><b>My machine learning projects</b></a></td>
+      <td><a href="https://github.com/Danila-Kovalenko/My_Machine_Learning"><b>My machine learning projects</b></a></td>
       <td><b>My machine learning projects</b></td>
 </tr>
 <tr>

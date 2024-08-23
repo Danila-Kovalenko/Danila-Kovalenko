@@ -27,8 +27,8 @@ Ich bin ein Backend-Entwickler mit Erfahrung im Lernen und Arbeiten an Webentwic
       <td><b>Meine Parsing-Projekte</b></td>
 </tr>    
 <tr>
-      <td><a href="https://github.com/Daniel-Kovalenko/My_Machine_Lerning"><b>Mein Machine Learning Projekt</b></a></td>
-      <td><b>Mein Machine Learning Projekt, Tarifempfehlunganalyse </b></td>
+      <td><a href="https://github.com/Daniel-Kovalenko/My_Machine_Learning"><b>Mein Machine Learning Projekte</b></a></td>
+      <td><b>Mein Machine Learning Projekte </b></td>
 </tr>
 <tr>
       <td><a href="https://github.com/Daniel-Kovalenko/Yatube_Project"><b>Yatube-Projekt</b></a></td>
@@ -79,9 +79,10 @@ Vielen Dank für Ihren Besuch auf meinem Profil! Ich hoffe, wir können an spann
 
 # EN
 ## Hello, I'm Danila Kovalenko! 
-### You can find my LinkedIn here:
+### You can find my LinkedIn and Kaggle here:
 
 <p><a href="https://www.linkedin.com/in/kovalenko-danila-923948257/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<p><a href="https://www.kaggle.com/danilakovalenko/"><img src="https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle&style=for-the-badge&logoColor=white" height=25></a>
 
 ### About Me
 I am a backend developer with experience in learning and working on web development projects. I have completed the Yandex Practicum course in backend development and successfully completed the Coursera course in backend development. My goal is to create high-quality software and make the internet better!
@@ -103,8 +104,8 @@ I am a backend developer with experience in learning and working on web developm
       <td><b>My parsing projects</b></td>
 </tr>    
 <tr>
-      <td><a href="https://github.com/Daniel-Kovalenko/My_Machine_Lerning"><b>My machine learning project</b></a></td>
-      <td><b>My machine learning project, Tariff recommendation analysis</b></td>
+      <td><a href="https://github.com/Daniel-Kovalenko/My_Machine_Learning"><b>My machine learning projects</b></a></td>
+      <td><b>My machine learning projects</b></td>
 </tr>
 <tr>
       <td><a href="https://github.com/Daniel-Kovalenko/Yatube_Project"><b>Yatube Project</b></a></td>

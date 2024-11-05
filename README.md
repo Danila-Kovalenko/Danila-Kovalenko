@@ -49,7 +49,7 @@ I am a backend developer with experience in learning and working on web developm
 
 ### My Development Skills:
 #### Programming Languages:
-  ###### -Python, Shell, HTML, Java
+  ###### -Python, Java, Shell, HTML
   
 #### User Skills:
   ###### -MS Office and MS Excel skills, proficient PC user
@@ -128,7 +128,7 @@ Ich bin ein Backend-Entwickler mit Erfahrung im Lernen und Arbeiten an Webentwic
 
 ### Meine Entwicklung-Kentnisse:
 #### Programmierungssprachen
-  ###### -Python, Shell, HTML
+  ###### -Python, Java, Shell, HTML
 
   
 #### Benutzter-Kentnisse

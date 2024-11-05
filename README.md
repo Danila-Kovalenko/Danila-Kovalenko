@@ -8,8 +8,8 @@
 ### About Me
 I am a backend developer with experience in learning and working on web development projects. I have completed the Yandex Practicum course in backend development and successfully completed the Coursera course in backend development. My goal is to create high-quality software and make the internet better!
 ### My Achievements
-✅ Completion of the Yandex Practicum course in backend development.
-✅ Completion of the Coursera course in backend development, [Here is my certificate](https://www.coursera.org/account/accomplishments/professional-cert/CQMV5WWGFETW).
+- ✅ Completion of the Yandex Practicum course in backend development.
+- ✅ Completion of the Coursera course in backend development, [Here is my certificate](https://www.coursera.org/account/accomplishments/professional-cert/CQMV5WWGFETW).
 
 <h3>My Repositories</h3>
 <table width=100%>

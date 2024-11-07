@@ -44,6 +44,10 @@ I am a backend developer with experience in learning and working on web developm
       <td><a href="https://github.com/Danila-Kovalenko/Recipe_Posting_SIte"><b>Foodgram Project</b></a></td>
       <td><b>A website where users can post and discuss recipes</b></td>
 </tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/MyJavaWork"><b>MyJavaWork</b></a></td>
+      <td><b>Just some of my self-learned Java skills</b></td>
+</tr>
   </tbody>
 </table>
 
@@ -122,6 +126,10 @@ Ich bin ein Backend-Entwickler mit Erfahrung im Lernen und Arbeiten an Webentwic
 <tr>
       <td><a href="https://github.com/Danila-Kovalenko/Recipe_Posting_SIte"><b>Foodgram-Projekt</b></a></td>
       <td><b>Eine Website, auf der Benutzer Rezepte posten und darüber sprechen können</b></td>
+</tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/MyJavaWork"><b>MyJavaWork</b></a></td>
+      <td><b>Nur einige meiner selbst erlernten Java-Fähigkeiten</b></td>
 </tr>
   </tbody>
 </table>

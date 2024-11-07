@@ -129,7 +129,7 @@ Ich bin ein Backend-Entwickler mit Erfahrung im Lernen und Arbeiten an Webentwic
 </tr>
 <tr>
       <td><a href="https://github.com/Danila-Kovalenko/MyJavaWork"><b>MyJavaWork</b></a></td>
-      <td><b>Nur einige meiner selbst erlernten Java-Fähigkeiten</b></td>
+      <td><b>Ein paar meiner selbst erlernten Java-Fähigkeiten</b></td>
 </tr>
   </tbody>
 </table>

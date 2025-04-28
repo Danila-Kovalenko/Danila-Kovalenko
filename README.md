@@ -49,6 +49,10 @@ I am a backend developer and a data analytic with experience in learning and wor
       <td><a href="https://github.com/Danila-Kovalenko/MyJavaWork"><b>MyJavaWork</b></a></td>
       <td><b>Just some of my self-learned Java skills</b></td>
 </tr>
+<tr>
+      <td><a href="(https://github.com/Danila-Kovalenko/Computer_Vision)"><b>Computer Vision Pojectsk</b></a></td>
+      <td><b>Here I have learned and practiced analysing a picture with computer eyes and a simple perceptron as well</b></td>
+</tr>
   </tbody>
 </table>
 

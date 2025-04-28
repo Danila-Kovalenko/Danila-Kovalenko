@@ -6,7 +6,7 @@
 <p><a href="https://www.kaggle.com/danilakovalenko/"><img src="https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle&style=for-the-badge&logoColor=white" height=25></a>
 
 ### About Me
-I am a backend developer with experience in learning and working on web development projects. I have completed the Yandex Practicum course in backend development and successfully completed the Coursera course in backend development. My goal is to create high-quality software and make the internet better!
+I am a backend developer and a data analytic with experience in learning and working on web development projects and analysing big data. I have completed the Yandex Practicum course in backend development and successfully completed the Coursera courses in backend development and data analytics. My goal is to create high-quality software!
 ### My Achievements
 - ✅ Completion of the Yandex Practicum course in backend development.
 - ✅ Completion of the Coursera course in BackEnd Development, [Here is my certificate](https://www.coursera.org/account/accomplishments/professional-cert/CQMV5WWGFETW).
@@ -88,10 +88,11 @@ Thank you for visiting my profile! I hope we can collaborate on exciting project
 <p><a href="https://www.kaggle.com/danilakovalenko/"><img src="https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle&style=for-the-badge&logoColor=white" height=25></a>
 
 ### Über mich
-Ich bin ein Backend-Entwickler mit Erfahrung im Lernen und Arbeiten an Webentwicklungsprojekten. Ich habe den Kurs Yandex Practicum in Backend-Entwicklung abgeschlossen und erfolgreich den Coursera-Kurs in Backend-Entwicklung absolviert. Mein Ziel ist es, hochwertige Software zu erstellen und das Internet besser zu machen!
+Ich bin Backend-Entwickler und Datenanalytiker mit Erfahrung im Lernen und Arbeiten an Webentwicklungsprojekten und in der Analyse von Big Data. Ich habe den Yandex-Praktikumskurs in Backend-Entwicklung abgeschlossen und die Coursera-Kurse in Backend-Entwicklung und Datenanalyse erfolgreich abgeschlossen. Mein Ziel ist es, qualitativ hochwertige Software zu erstellen!
 ### Meine Erfolge
-- ✅ Abschluss des Kurses Yandex Practicum in Backend-Entwicklung.
-- ✅ Abschluss des Coursera-Kurses in Backend-Entwicklung. [Hier ist mein Zertifikat](https://www.coursera.org/account/accomplishments/professional-cert/CQMV5WWGFETW).
+- ✅ Abschluss des Yandex-Praktikums in Backend-Entwicklung.
+- ✅ Abschluss des Coursera-Kurses in BackEnd-Entwicklung, [Hier ist mein Zertifikat](https://www.coursera.org/account/accomplishments/professional-cert/CQMV5WWGFETW ).
+- ✅ Abschluss des Coursera-Kurses in Data Analytics, [Hier ist mein Zertifikat](https://coursera.org/share/70423e7759ee5c3d052104e2be474f5e ).
 
 <h3>Meine Repositories</h3>
 

@@ -54,10 +54,10 @@ I am a backend developer and a data analytic with experience in learning and wor
 
 ### My Development Skills:
 #### Programming Languages:
-  ###### -Python, Java, Shell, HTML
+  ###### -Python, Java, Shell, HTML, R
   
 #### User Skills:
-  ###### -MS Office and MS Excel skills, proficient PC user
+  ###### -MS Office and MS Excel skills, Tableau and RCloud
 
 
 #### Frameworks:
@@ -138,11 +138,11 @@ Ich bin Backend-Entwickler und Datenanalytiker mit Erfahrung im Lernen und Arbei
 
 ### Meine Entwicklung-Kentnisse:
 #### Programmierungssprachen
-  ###### -Python, Java, Shell, HTML
+  ###### -Python, Java, Shell, HTML, R
 
   
 #### Benutzter-Kentnisse
-  ######   -MS Office and MS Excel Kentnisse, ein bewanderter PC Benutzer
+  ######   -MS Office and MS Excel Kentnisse, Tableau und RCloud
 
 
 #### Frameworks

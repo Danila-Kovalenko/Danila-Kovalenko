@@ -137,6 +137,10 @@ Ich bin Backend-Entwickler und Datenanalytiker mit Erfahrung im Lernen und Arbei
       <td><a href="https://github.com/Danila-Kovalenko/MyJavaWork"><b>MyJavaWork</b></a></td>
       <td><b>Ein paar meiner selbst erlernten Java-Fähigkeiten</b></td>
 </tr>
+<tr>
+      <<td><a href="(https://github.com/Daniela-Kovalenko/Computer_Vision )"><b>Computer Vision Projekte</b></a></td>
+      <td><b>Hier habe ich gelernt und geübt, ein Bild auch mit Computeraugen und einem einfachen Perzeptron zu analysieren</b></td>
+</tr>
   </tbody>
 </table>
 

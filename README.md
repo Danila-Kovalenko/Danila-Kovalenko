@@ -50,7 +50,7 @@ I am a backend developer and a data analytic with experience in learning and wor
       <td><b>Just some of my self-learned Java skills</b></td>
 </tr>
 <tr>
-      <td><a href="(https://github.com/Danila-Kovalenko/Computer_Vision)"><b>Computer Vision Pojectsk</b></a></td>
+      <td><a href="https://github.com/Danila-Kovalenko/Computer_Vision"><b>Computer Vision Pojectsk</b></a></td>
       <td><b>Here I have learned and practiced analysing a picture with computer eyes and a simple perceptron as well</b></td>
 </tr>
   </tbody>
@@ -138,7 +138,7 @@ Ich bin Backend-Entwickler und Datenanalytiker mit Erfahrung im Lernen und Arbei
       <td><b>Ein paar meiner selbst erlernten Java-Fähigkeiten</b></td>
 </tr>
 <tr>
-      <<td><a href="(https://github.com/Daniela-Kovalenko/Computer_Vision )"><b>Computer Vision Projekte</b></a></td>
+      <<td><a href="https://github.com/Danila-Kovalenko/Computer_Vision"><b>Computer Vision Projekte</b></a></td>
       <td><b>Hier habe ich gelernt und geübt, ein Bild auch mit Computeraugen und einem einfachen Perzeptron zu analysieren</b></td>
 </tr>
   </tbody>

@@ -23,7 +23,7 @@ I am a backend developer and a data analytic with experience in learning and wor
   </thead>
   <tbody>
 <tr>
-      <td><a href="https://github.com/Daniel-Kovalenko/Parcing_Projects"><b>Here are my parsing projects</b></a></td>
+      <td><a href="https://github.com/Daniel-Kovalenko/Parcing_Projects"><b>My parsing projects</b></a></td>
       <td><b>My parsing projects</b></td>
 </tr>    
 <tr>

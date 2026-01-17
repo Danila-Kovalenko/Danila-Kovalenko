@@ -11,7 +11,7 @@ I am a backend developer and a data analytic with experience in learning and wor
 - ✅ Completion of the Yandex Practicum course in backend development.
 - ✅ Completion of the Coursera course in BackEnd Development, [Here is my certificate](https://www.coursera.org/account/accomplishments/professional-cert/CQMV5WWGFETW).
 - ✅ Completion of the Coursera course in Data Analytics, [Here is my certificate](https://coursera.org/share/70423e7759ee5c3d052104e2be474f5e).
-- ✅ Completion of the Coursera course in IBM Data Engineering, [Here is my certificate]((https://www.coursera.org/account/accomplishments/professional-cert/DHWPCU304NYP).
+- ✅ Completion of the Coursera course in IBM Data Engineering, [Here is my certificate](https://www.coursera.org/account/accomplishments/professional-cert/DHWPCU304NYP).
 
 <h3>My Repositories</h3>
 <table width=100%>
@@ -102,6 +102,7 @@ Ich bin Backend-Entwickler und Datenanalytiker mit Erfahrung im Lernen und Arbei
 - ✅ Abschluss des Yandex-Praktikums in Backend-Entwicklung.
 - ✅ Abschluss des Coursera-Kurses in BackEnd-Entwicklung, [Hier ist mein Zertifikat](https://www.coursera.org/account/accomplishments/professional-cert/CQMV5WWGFETW ).
 - ✅ Abschluss des Coursera-Kurses in Data Analytics, [Hier ist mein Zertifikat](https://coursera.org/share/70423e7759ee5c3d052104e2be474f5e ).
+- ✅ Abschluss des Coursera-Kurses in IBM Data Engineering, [Here is my certificate](https://www.coursera.org/account/accomplishments/professional-cert/DHWPCU304NYP).
 
 <h3>Meine Repositories</h3>
 

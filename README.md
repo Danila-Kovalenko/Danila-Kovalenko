@@ -11,6 +11,7 @@ I am a backend developer and a data analytic with experience in learning and wor
 - ✅ Completion of the Yandex Practicum course in backend development.
 - ✅ Completion of the Coursera course in BackEnd Development, [Here is my certificate](https://www.coursera.org/account/accomplishments/professional-cert/CQMV5WWGFETW).
 - ✅ Completion of the Coursera course in Data Analytics, [Here is my certificate](https://coursera.org/share/70423e7759ee5c3d052104e2be474f5e).
+- ✅ Completion of the Coursera course in IBM Data Engineering, [Here is my certificate]((https://www.coursera.org/account/accomplishments/professional-cert/DHWPCU304NYP).
 
 <h3>My Repositories</h3>
 <table width=100%>
@@ -52,6 +53,10 @@ I am a backend developer and a data analytic with experience in learning and wor
 <tr>
       <td><a href="https://github.com/Danila-Kovalenko/Computer_Vision"><b>Computer Vision Pojectsk</b></a></td>
       <td><b>Here I have learned and practiced analysing a picture with computer eyes and a simple perceptron as well</b></td>
+</tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/IBM-Data-Engineering-Capstone-Project"><b>IBM Data Engineering Capstone Project</b></a></td>
+      <td><b>Here I completed IBM Data Engineering Course and made this as my final project</b></td>
 </tr>
   </tbody>
 </table>
@@ -110,12 +115,12 @@ Ich bin Backend-Entwickler und Datenanalytiker mit Erfahrung im Lernen und Arbei
   <tbody>
 
 <tr>
-      <td><a href="https://github.com/Daniel-Kovalenko/Parcing_Projects"><b>Hier sind meine Parsing-Projekte</b></a></td>
+      <td><a href="https://github.com/Daniel-Kovalenko/Parcing_Projects"><b>Meine Parsing-Projekte</b></a></td>
       <td><b>Meine Parsing-Projekte</b></td>
 </tr>    
 <tr>
-      <td><a href="https://github.com/Danila-Kovalenko/My_Machine_Learning"><b>Mein Machine Learning Projekte</b></a></td>
-      <td><b>Mein Machine Learning Projekte </b></td>
+      <td><a href="https://github.com/Danila-Kovalenko/My_Machine_Learning"><b>Machine Learning Projekte</b></a></td>
+      <td><b>Meine Machine Learning Projekte </b></td>
 </tr>
 <tr>
       <td><a href="https://github.com/Daniel-Kovalenko/Yatube_Project"><b>Yatube-Projekt</b></a></td>
@@ -140,6 +145,10 @@ Ich bin Backend-Entwickler und Datenanalytiker mit Erfahrung im Lernen und Arbei
 <tr>
       <<td><a href="https://github.com/Danila-Kovalenko/Computer_Vision"><b>Computer Vision Projekte</b></a></td>
       <td><b>Hier habe ich gelernt und geübt, ein Bild auch mit Computeraugen und einem einfachen Perzeptron zu analysieren</b></td>
+</tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/IBM-Data-Engineering-Capstone-Project"><b>IBM Data Engineering Capstone Project</b></a></td>
+      <td><b>Hier habe ich den IBM Data Engineering Kurs abgeschlossen und dies als mein Abschlussprojekt gemacht</b></td>
 </tr>
   </tbody>
 </table>

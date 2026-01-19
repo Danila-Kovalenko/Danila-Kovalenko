@@ -24,11 +24,11 @@ I am a backend developer and a data analytic with experience in learning and wor
   </thead>
   <tbody>
 <tr>
-      <td><a href="https://github.com/Daniel-Kovalenko/Parcing_Projects"><b>My parsing projects</b></a></td>
+      <td><a href="https://github.com/Daniel-Kovalenko/Parcing_Projects"><b>Parsing projects</b></a></td>
       <td><b>My parsing projects</b></td>
 </tr>    
 <tr>
-      <td><a href="https://github.com/Danila-Kovalenko/My_Machine_Learning"><b>My machine learning projects</b></a></td>
+      <td><a href="https://github.com/Danila-Kovalenko/My_Machine_Learning"><b>Machine learning projects</b></a></td>
       <td><b>My machine learning projects</b></td>
 </tr>
 <tr>
@@ -118,7 +118,7 @@ Ich bin Backend-Entwickler und Datenanalytiker mit Erfahrung im Lernen und Arbei
   <tbody>
 
 <tr>
-      <td><a href="https://github.com/Daniel-Kovalenko/Parcing_Projects"><b>Meine Parsing-Projekte</b></a></td>
+      <td><a href="https://github.com/Daniel-Kovalenko/Parcing_Projects"><b>Parsing-Projekte</b></a></td>
       <td><b>Meine Parsing-Projekte</b></td>
 </tr>    
 <tr>

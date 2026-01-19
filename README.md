@@ -9,8 +9,9 @@
 I am a backend developer and a data analytic with experience in learning and working on web development projects and analysing big data. I have completed the Yandex Practicum course in backend development and successfully completed the Coursera courses in backend development and data analytics.
 ### My Achievements
 - ✅ Completion of the Yandex Practicum course in backend development.
-- ✅ Completion of the Coursera course in BackEnd Development, [Here is my certificate](https://www.coursera.org/account/accomplishments/professional-cert/CQMV5WWGFETW).
-- ✅ Completion of the Coursera course in Data Analytics, [Here is my certificate](https://coursera.org/share/70423e7759ee5c3d052104e2be474f5e).
+- ✅ Completion of the Coursera course in Google Data Analytics, [Here is my certificate](https://coursera.org/share/70423e7759ee5c3d052104e2be474f5e).
+- ✅ Completion of the Coursera course in Google Advanced Data Analytics, [Here is my certificate](https://www.coursera.org/account/accomplishments/professional-cert/BCBYJRPGZ2CJ).
+- ✅ Completion of the Coursera course in IBM BackEnd Development, [Here is my certificate](https://www.coursera.org/account/accomplishments/professional-cert/CQMV5WWGFETW).
 - ✅ Completion of the Coursera course in IBM Data Engineering, [Here is my certificate](https://www.coursera.org/account/accomplishments/professional-cert/DHWPCU304NYP).
 
 <h3>My Repositories</h3>
@@ -100,9 +101,10 @@ Thank you for visiting my profile! I hope we can collaborate on exciting project
 Ich bin Backend-Entwickler und Datenanalytiker mit Erfahrung im Lernen und Arbeiten an Webentwicklungsprojekten und in der Analyse von Big Data. Ich habe den Yandex-Praktikumskurs in Backend-Entwicklung abgeschlossen und die Coursera-Kurse in Backend-Entwicklung und Datenanalyse erfolgreich abgeschlossen.
 ### Meine Erfolge
 - ✅ Abschluss des Yandex-Praktikums in Backend-Entwicklung.
-- ✅ Abschluss des Coursera-Kurses in BackEnd-Entwicklung, [Hier ist mein Zertifikat](https://www.coursera.org/account/accomplishments/professional-cert/CQMV5WWGFETW ).
-- ✅ Abschluss des Coursera-Kurses in Data Analytics, [Hier ist mein Zertifikat](https://coursera.org/share/70423e7759ee5c3d052104e2be474f5e ).
-- ✅ Abschluss des Coursera-Kurses in IBM Data Engineering, [Here is my certificate](https://www.coursera.org/account/accomplishments/professional-cert/DHWPCU304NYP).
+- ✅ Abschluss des Coursera-Kurses in Google Data Analytics, [Hier ist mein Zertifikat](https://coursera.org/share/70423e7759ee5c3d052104e2be474f5e ).
+- ✅ Abschluss des Coursera-Kurses in Google Advanced Data Analytics, [Hier ist mein Zertifikat](https://www.coursera.org/account/accomplishments/professional-cert/BCBYJRPGZ2CJ ).
+- ✅ Abschluss des Coursera-Kurses in IBM BackEnd Development, [Hier ist mein Zertifikat](https://www.coursera.org/account/accomplishments/professional-cert/CQMV5WWGFETW ).
+- ✅ Abschluss des Coursera-Kurses in IBM Data Engineering, [Hier ist mein Zertifikat](https://www.coursera.org/account/accomplishments/professional-cert/DHWPCU304NYP ).
 
 <h3>Meine Repositories</h3>
 

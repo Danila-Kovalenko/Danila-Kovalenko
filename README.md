@@ -13,6 +13,8 @@ I am a backend developer and a data analytic with experience in learning and wor
 - ✅ Completion of the Coursera Professional Certificate in Google Advanced Data Analytics, [Here is my certificate](https://www.coursera.org/account/accomplishments/professional-cert/BCBYJRPGZ2CJ).
 - ✅ Completion of the Coursera Professional Certificate in IBM BackEnd Development, [Here is my certificate](https://www.coursera.org/account/accomplishments/professional-cert/CQMV5WWGFETW).
 - ✅ Completion of the Coursera Professional Certificate in IBM Data Engineering, [Here is my certificate](https://www.coursera.org/account/accomplishments/professional-cert/DHWPCU304NYP).
+- ✅ Completion of the Coursera Professional Certificate in IBM AI Engineering, [Here is my certificate](https://coursera.org/share/72927a37f61ff1b7aa0b8388b00026be).
+- ✅ Completion of the Coursera Professional Certificate in IBM Data Architecture, [Here is my certificate](https://coursera.org/share/9018ce9c044e9aeea26412d6d5514c78).
 
 <h3>My Repositories</h3>
 <table width=100%>
@@ -105,6 +107,8 @@ Ich bin Backend-Entwickler und Datenanalytiker mit Erfahrung im Lernen und Arbei
 - ✅ Abschluss des Coursera-Professionelles Zertifikat in Google Advanced Data Analytics, [Hier ist mein Zertifikat](https://www.coursera.org/account/accomplishments/professional-cert/BCBYJRPGZ2CJ ).
 - ✅ Abschluss des Coursera-Professionelles Zertifikat in IBM BackEnd Development, [Hier ist mein Zertifikat](https://www.coursera.org/account/accomplishments/professional-cert/CQMV5WWGFETW ).
 - ✅ Abschluss des Coursera-Professionelles Zertifikat in IBM Data Engineering, [Hier ist mein Zertifikat](https://www.coursera.org/account/accomplishments/professional-cert/DHWPCU304NYP ).
+- ✅ Abschluss des Coursera Professional Zertifikats in IBM AI Engineering, [Hier ist mein Zertifikat](https://coursera.org/share/72927a37f61ff1b7aa0b8388b00026be ).
+- ✅ Abschluss des Coursera Professional Zertifikats in IBM Data Architecture, [Hier ist mein Zertifikat](https://coursera.org/share/9018ce9c044e9aeea26412d6d5514c78 ).
 
 <h3>Meine Repositories</h3>
 

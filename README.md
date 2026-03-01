@@ -66,22 +66,34 @@ I am a backend developer and a data analytic with experience in learning and wor
 
 ### My Development Skills:
 #### Programming Languages:
-  ###### -Python, Java, Shell, HTML, R
-  
-#### User Skills:
-  ###### -MS Office and MS Excel skills, Tableau and RCloud
+###### -Python, Java, Shell, HTML, R
 
+#### User Skills:
+###### -MS Office and MS Excel skills, Tableau, RCloud
 
 #### Frameworks:
-  ###### -Django, FastAPI, and Flask
-
+###### -Django, FastAPI, Flask
 
 #### SQL:
-  ###### -MySQL, SQL, NoSQL, PostgreSQL
-
+###### -MySQL, SQL, NoSQL, PostgreSQL
 
 #### Docker:
-  ###### -Docker, Kubernetes, OpenShift
+###### -Docker, Kubernetes, OpenShift
+
+#### Data & Analytics:
+###### -Data Engineering, ETL, Data Warehousing, Big Data, Data Management
+
+#### Machine Learning:
+###### -Machine Learning, Applied Machine Learning, Artificial Neural Networks, Computer Vision, Natural Language Processing (NLP)
+
+#### Statistics:
+###### -Statistical Analysis, Probability Distribution, Exploratory Data Analysis (EDA)
+
+#### Security:
+###### -Network Security
+
+#### Other:
+###### -Business Intelligence, Data Visualization, Problem Solving, Apache
 
 
 ### Contact Me
@@ -160,25 +172,36 @@ Ich bin Backend-Entwickler und Datenanalytiker mit Erfahrung im Lernen und Arbei
   </tbody>
 </table>
 
-### Meine Entwicklung-Kentnisse:
-#### Programmierungssprachen
-  ###### -Python, Java, Shell, HTML, R
+### Meine Development Skills:
+#### Programmiersprachen:
+###### -Python, Java, Shell, HTML, R
 
-  
-#### Benutzter-Kentnisse
-  ######   -MS Office and MS Excel Kentnisse, Tableau und RCloud
+#### Anwenderkenntnisse:
+###### -MS Office- und MS Excel-Kenntnisse, Tableau, RCloud
 
+#### Frameworks:
+###### -Django, FastAPI, Flask
 
-#### Frameworks
-  ###### -Django, FastAPI und Flask
+#### SQL:
+###### -MySQL, SQL, NoSQL, PostgreSQL
 
+#### Docker:
+###### -Docker, Kubernetes, OpenShift
 
-#### SQL
-  ###### -MySQL, SQL, NoSQL, PostgreSQL
+#### Data & Analytics:
+###### -Data Engineering, ETL, Data Warehousing, Big Data, Data Management
 
+#### Machine Learning:
+###### -Machine Learning, Applied Machine Learning, Künstliche Neuronale Netze, Computer Vision, Natural Language Processing (NLP)
 
-#### Docker
-  ###### -Docker, Kubernetes, OpenShift
+#### Statistik:
+###### -Statistische Analyse, Wahrscheinlichkeitsverteilungen, Explorative Datenanalyse (EDA)
+
+#### Sicherheit:
+###### -Netzwerksicherheit
+
+#### Sonstiges:
+###### -Business Intelligence, Datenvisualisierung, Problemlösung, Apache
 
 
 ### Kontaktieren Sie mich

@@ -25,42 +25,80 @@ I am a backend developer and a data analytic with experience in learning and wor
     </tr>
   </thead>
   <tbody>
+
 <tr>
-      <td><a href="https://github.com/Daniel-Kovalenko/Parcing_Projects"><b>Parsing projects</b></a></td>
-      <td><b>My parsing projects</b></td>
-</tr>    
-<tr>
-      <td><a href="https://github.com/Danila-Kovalenko/My_Machine_Learning"><b>Machine learning projects</b></a></td>
-      <td><b>My machine learning projects</b></td>
+      <td><a href="https://github.com/Danila-Kovalenko/AI-Capstone-Project-with-Deep-Learning-Final-Assignment"><b>AI-Capstone-Project-with-Deep-Learning-Final-Assignment</b></a></td>
+      <td><b>Final AI capstone project with deep learning experiments and notebook-based analysis</b></td>
 </tr>
 <tr>
-      <td><a href="https://github.com/Daniel-Kovalenko/Yatube_Project"><b>Yatube Project</b></a></td>
-      <td><b>A social network for online blogs and posts</b></td>
+      <td><a href="https://github.com/Danila-Kovalenko/IBM-Data-Engineering-Capstone-Project"><b>IBM-Data-Engineering-Capstone-Project</b></a></td>
+      <td><b>Capstone project completed as part of the IBM Data Engineering professional track</b></td>
 </tr>
 <tr>
-      <td><a href="https://github.com/Danila-Kovalenko/YaMDb_Project"><b>YaMDb Project</b></a></td>
-      <td><b>A website where users can write reviews about different movies, books, etc.</b></td>
-</tr>	  
-<tr>
-      <td><a href="https://github.com/Danila-Kovalenko/Charity_Site_Backend"><b>Charity Project</b></a></td>
-      <td><b>A website where administrators can start a fundraising project for charity</b></td>
-</tr>	
-<tr>
-      <td><a href="https://github.com/Danila-Kovalenko/Recipe_Posting_SIte"><b>Foodgram Project</b></a></td>
-      <td><b>A website where users can post and discuss recipes</b></td>
+      <td><a href="https://github.com/Danila-Kovalenko/nyc-311-snowflake-analytics"><b>nyc-311-snowflake-analytics</b></a></td>
+      <td><b>NYC 311 analytics project using Snowflake and SQL-based data exploration</b></td>
 </tr>
 <tr>
       <td><a href="https://github.com/Danila-Kovalenko/MyJavaWork"><b>MyJavaWork</b></a></td>
-      <td><b>Just some of my self-learned Java skills</b></td>
+      <td><b>Java practice repository with self-learning exercises and examples</b></td>
 </tr>
 <tr>
-      <td><a href="https://github.com/Danila-Kovalenko/Computer_Vision"><b>Computer Vision Pojectsk</b></a></td>
-      <td><b>Here I have learned and practiced analysing a picture with computer eyes and a simple perceptron as well</b></td>
+      <td><a href="https://github.com/Danila-Kovalenko/My_Machine_Learning"><b>My_Machine_Learning</b></a></td>
+      <td><b>Machine learning notebooks and practical model-building tasks</b></td>
 </tr>
 <tr>
-      <td><a href="https://github.com/Danila-Kovalenko/IBM-Data-Engineering-Capstone-Project"><b>IBM Data Engineering Capstone Project</b></a></td>
-      <td><b>Here I completed IBM Data Engineering Course and made this as my final project</b></td>
+      <td><a href="https://github.com/Danila-Kovalenko/Back-End-Development-Pictures"><b>Back-End-Development-Pictures</b></a></td>
+      <td><b>Backend development study materials and project-related assets</b></td>
 </tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/Computer_Vision"><b>Computer_Vision</b></a></td>
+      <td><b>Computer vision practice projects and image analysis tasks</b></td>
+</tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/Children_Library"><b>Children_Library</b></a></td>
+      <td><b>Java project focused on a children’s library management concept</b></td>
+</tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/YaMDb_Project"><b>YaMDb_Project</b></a></td>
+      <td><b>Review platform where users rate and discuss books, movies, and more</b></td>
+</tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/Yatube_Project"><b>Yatube_Project</b></a></td>
+      <td><b>Social blogging platform for creating posts and community interaction</b></td>
+</tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/Parcing_Projects"><b>Parcing_Projects</b></a></td>
+      <td><b>Collection of parsing scripts and data extraction exercises</b></td>
+</tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/Recipe_Posting_SIte"><b>Recipe_Posting_SIte</b></a></td>
+      <td><b>Foodgram template project for posting and sharing recipes</b></td>
+</tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/final-cloud-app-with-database"><b>final-cloud-app-with-database</b></a></td>
+      <td><b>Cloud application project integrated with a database backend</b></td>
+</tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/Charity_Site_Backend"><b>Charity_Site_Backend</b></a></td>
+      <td><b>Backend for a charity fundraising platform with project management features</b></td>
+</tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/room_reservation"><b>room_reservation</b></a></td>
+      <td><b>Backend service for room booking and reservation workflows</b></td>
+</tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/yacut"><b>yacut</b></a></td>
+      <td><b>URL shortener backend service built with Python</b></td>
+</tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/homework_bot"><b>homework_bot</b></a></td>
+      <td><b>Telegram bot for tracking and notifying about homework status updates</b></td>
+</tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/Fitnes_Tracker"><b>Fitnes_Tracker</b></a></td>
+      <td><b>Fitness tracking practice project built with Python</b></td>
+</tr>
+
   </tbody>
 </table>
 
@@ -133,42 +171,80 @@ Ich bin Backend-Entwickler und Datenanalytiker mit Erfahrung im Lernen und Arbei
   </thead>
   <tbody>
 
+
 <tr>
-      <td><a href="https://github.com/Daniel-Kovalenko/Parcing_Projects"><b>Parsing-Projekte</b></a></td>
-      <td><b>Meine Parsing-Projekte</b></td>
-</tr>    
-<tr>
-      <td><a href="https://github.com/Danila-Kovalenko/My_Machine_Learning"><b>Machine Learning Projekte</b></a></td>
-      <td><b>Meine Machine Learning Projekte </b></td>
+      <td><a href="https://github.com/Danila-Kovalenko/AI-Capstone-Project-with-Deep-Learning-Final-Assignment"><b>AI-Capstone-Project-with-Deep-Learning-Final-Assignment</b></a></td>
+      <td><b>Abschlussprojekt im Bereich KI mit Deep-Learning-Experimenten und Notebook-Analyse</b></td>
 </tr>
 <tr>
-      <td><a href="https://github.com/Daniel-Kovalenko/Yatube_Project"><b>Yatube-Projekt</b></a></td>
-      <td><b>Ein soziales Netzwerk für Online-Blogs und Beiträge</b></td>
+      <td><a href="https://github.com/Danila-Kovalenko/IBM-Data-Engineering-Capstone-Project"><b>IBM-Data-Engineering-Capstone-Project</b></a></td>
+      <td><b>Capstone-Projekt aus dem IBM Data Engineering Lernpfad</b></td>
 </tr>
 <tr>
-      <td><a href="https://github.com/Danila-Kovalenko/YaMDb_Project"><b>YaMDb-Projekt</b></a></td>
-      <td><b>Eine Website, auf der Benutzer Bewertungen zu verschiedenen Filmen, Büchern usw. schreiben können</b></td>
-</tr>	  
-<tr>
-      <td><a href="https://github.com/Danila-Kovalenko/Charity_Site_Backend"><b>Charity-Projekt</b></a></td>
-      <td><b>Eine Website, auf der Administratoren ein Geldbeschaffungsprojekt für wohltätige Zwecke starten können</b></td>
-</tr>	
-<tr>
-      <td><a href="https://github.com/Danila-Kovalenko/Recipe_Posting_SIte"><b>Foodgram-Projekt</b></a></td>
-      <td><b>Eine Website, auf der Benutzer Rezepte posten und darüber sprechen können</b></td>
+      <td><a href="https://github.com/Danila-Kovalenko/nyc-311-snowflake-analytics"><b>nyc-311-snowflake-analytics</b></a></td>
+      <td><b>NYC-311-Analyseprojekt mit Snowflake und SQL-basierter Datenauswertung</b></td>
 </tr>
 <tr>
       <td><a href="https://github.com/Danila-Kovalenko/MyJavaWork"><b>MyJavaWork</b></a></td>
-      <td><b>Ein paar meiner selbst erlernten Java-Fähigkeiten</b></td>
+      <td><b>Java-Übungsrepository mit selbst erarbeiteten Beispielen</b></td>
 </tr>
 <tr>
-      <<td><a href="https://github.com/Danila-Kovalenko/Computer_Vision"><b>Computer Vision Projekte</b></a></td>
-      <td><b>Hier habe ich gelernt und geübt, ein Bild auch mit Computeraugen und einem einfachen Perzeptron zu analysieren</b></td>
+      <td><a href="https://github.com/Danila-Kovalenko/My_Machine_Learning"><b>My_Machine_Learning</b></a></td>
+      <td><b>Machine-Learning-Notebooks und praktische Modellierungsaufgaben</b></td>
 </tr>
 <tr>
-      <td><a href="https://github.com/Danila-Kovalenko/IBM-Data-Engineering-Capstone-Project"><b>IBM Data Engineering Capstone Project</b></a></td>
-      <td><b>Hier habe ich den IBM Data Engineering Kurs abgeschlossen und dies als mein Abschlussprojekt gemacht</b></td>
+      <td><a href="https://github.com/Danila-Kovalenko/Back-End-Development-Pictures"><b>Back-End-Development-Pictures</b></a></td>
+      <td><b>Lernmaterialien und projektbezogene Assets zur Backend-Entwicklung</b></td>
 </tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/Computer_Vision"><b>Computer_Vision</b></a></td>
+      <td><b>Computer-Vision-Übungen und Aufgaben zur Bildanalyse</b></td>
+</tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/Children_Library"><b>Children_Library</b></a></td>
+      <td><b>Java-Projekt mit Fokus auf ein Kinderbibliotheks-Konzept</b></td>
+</tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/YaMDb_Project"><b>YaMDb_Project</b></a></td>
+      <td><b>Bewertungsplattform für Filme, Bücher und weitere Inhalte</b></td>
+</tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/Yatube_Project"><b>Yatube_Project</b></a></td>
+      <td><b>Soziale Blog-Plattform zum Erstellen und Diskutieren von Beiträgen</b></td>
+</tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/Parcing_Projects"><b>Parcing_Projects</b></a></td>
+      <td><b>Sammlung von Parsing-Skripten und Datenextraktionsübungen</b></td>
+</tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/Recipe_Posting_SIte"><b>Recipe_Posting_SIte</b></a></td>
+      <td><b>Foodgram-Template-Projekt zum Veröffentlichen und Teilen von Rezepten</b></td>
+</tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/final-cloud-app-with-database"><b>final-cloud-app-with-database</b></a></td>
+      <td><b>Cloud-App-Projekt mit angebundenem Datenbank-Backend</b></td>
+</tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/Charity_Site_Backend"><b>Charity_Site_Backend</b></a></td>
+      <td><b>Backend für eine Spendenplattform mit Projektverwaltungsfunktionen</b></td>
+</tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/room_reservation"><b>room_reservation</b></a></td>
+      <td><b>Backend-Service für Raumreservierung und Buchungsabläufe</b></td>
+</tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/yacut"><b>yacut</b></a></td>
+      <td><b>URL-Shortener-Backend auf Basis von Python</b></td>
+</tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/homework_bot"><b>homework_bot</b></a></td>
+      <td><b>Telegram-Bot zur Verfolgung und Benachrichtigung von Hausaufgaben-Status</b></td>
+</tr>
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/Fitnes_Tracker"><b>Fitnes_Tracker</b></a></td>
+      <td><b>Python-Übungsprojekt zur Verfolgung von Fitness-Aktivitäten</b></td>
+</tr>
+
   </tbody>
 </table>
 

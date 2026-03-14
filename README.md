@@ -95,7 +95,7 @@ I am a backend developer and a data analytic with experience in learning and wor
       <td><b>Telegram bot for tracking and notifying about homework status updates</b></td>
 </tr>
 <tr>
-      <td><a href="https://github.com/Danila-Kovalenko/Fitnes_Tracker"><b>Fitnes_Tracker</b></a></td>
+      <td><a href="https://github.com/Danila-Kovalenko/Fitness_Tracker"><b>Fitness_Tracker</b></a></td>
       <td><b>Fitness tracking practice project built with Python</b></td>
 </tr>
 
@@ -241,7 +241,7 @@ Ich bin Backend-Entwickler und Datenanalytiker mit Erfahrung im Lernen und Arbei
       <td><b>Telegram-Bot zur Verfolgung und Benachrichtigung von Hausaufgaben-Status</b></td>
 </tr>
 <tr>
-      <td><a href="https://github.com/Danila-Kovalenko/Fitnes_Tracker"><b>Fitnes_Tracker</b></a></td>
+      <td><a href="https://github.com/Danila-Kovalenko/Fitness_Tracker"><b>Fitness_Tracker</b></a></td>
       <td><b>Python-Übungsprojekt zur Verfolgung von Fitness-Aktivitäten</b></td>
 </tr>
 

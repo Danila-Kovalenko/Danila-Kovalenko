@@ -8,6 +8,14 @@
 ### Über mich
 Als Data Analyst und Backend-Entwickler beschäftige ich mich mit Datenbanken, Datenverarbeitung, Machine Learning, Prognosen und Webentwicklung. Meine Kenntnisse habe ich mir durch eigenständiges Lernen, 
 praktische Projekte sowie durch Praxiserfahrungen bei DERTOUR und Yandex angeeignet. Ich bin motiviert, mich fachlich weiterzuentwickeln und meine Fähigkeiten in der Praxis einzusetzen. 
+
+### Kontaktieren Sie mich
+Wenn Sie Fragen, Vorschläge haben oder einfach nur plaudern möchten, zögern Sie bitte nicht, mich zu kontaktieren.
+
+- 📧 Email: danila13kovalenko@gmail.com
+
+Vielen Dank für Ihren Besuch auf meinem Profil! Ich hoffe, wir können an spannenden Projekten zusammenarbeiten. 
+
 ### Meine Erfolge
 - ✅ Abschluss des Yandex-Praktikums in Backend-Entwicklung.
 - ✅ Abschluss des Coursera-Professionelles Zertifikat in Google Data Analytics, [Hier ist mein Zertifikat](https://coursera.org/share/70423e7759ee5c3d052104e2be474f5e ).
@@ -136,15 +144,6 @@ praktische Projekte sowie durch Praxiserfahrungen bei DERTOUR und Yandex angeeig
 #### Sonstiges:
 ###### -Business Intelligence, Datenvisualisierung, Problemlösung, Apache
 
-
-### Kontaktieren Sie mich
-Wenn Sie Fragen, Vorschläge haben oder einfach nur plaudern möchten, zögern Sie bitte nicht, mich zu kontaktieren.
-
-- 📧 Email: danila13kovalenko@gmail.com
-
-Vielen Dank für Ihren Besuch auf meinem Profil! Ich hoffe, wir können an spannenden Projekten zusammenarbeiten. 
-
-
 # EN
 ## Hello, I'm Danila Kovalenko! 
 ### You can find my LinkedIn and Kaggle here:
@@ -155,6 +154,15 @@ Vielen Dank für Ihren Besuch auf meinem Profil! Ich hoffe, wir können an spann
 ### About Me
 As a data analyst and backend developer, I deal with databases, data processing, machine learning, forecasts and web development. I have gained my knowledge through independent learning, 
 practical projects, as well as acquired through practical experience at THETOUR and Yandex. I am motivated to develop professionally and to use my skills in practice.
+
+### Contact Me
+
+If you have any questions, suggestions, or just want to chat, please feel free to contact me.
+
+📧 Email: danila13kovalenko@gmail.com
+
+Thank you for visiting my profile! I hope we can collaborate on exciting projects together.
+
 ### My Achievements
 - ✅ Completion of the Yandex Practicum course in backend development.
 - ✅ Completion of the Coursera Professional Certificate in Google Data Analytics, [Here is my certificate](https://coursera.org/share/70423e7759ee5c3d052104e2be474f5e).
@@ -280,12 +288,3 @@ practical projects, as well as acquired through practical experience at THETOUR 
 
 #### Other:
 ###### -Business Intelligence, Data Visualization, Problem Solving, Apache
-
-
-### Contact Me
-
-If you have any questions, suggestions, or just want to chat, please feel free to contact me.
-
-📧 Email: danila13kovalenko@gmail.com
-
-Thank you for visiting my profile! I hope we can collaborate on exciting projects together.

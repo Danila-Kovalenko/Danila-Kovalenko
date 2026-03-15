@@ -157,7 +157,7 @@ Vielen Dank für Ihren Besuch auf meinem Profil! Ich hoffe, wir können an spann
 
 ### About Me
 As a data analyst and backend developer, I deal with databases, data processing, machine learning, forecasts and web development. I have gained my knowledge through independent learning, 
-practical projects, as well as acquired through practical experience at THETOUR and Yandex. I am motivated to develop professionally and to use my skills in practice.
+practical projects, as well as acquired through practical experience at DERTOUR and Yandex. I am motivated to develop professionally and to use my skills in practice.
 
 ### Contact Me
 

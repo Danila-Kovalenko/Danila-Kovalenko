@@ -50,10 +50,6 @@ Vielen Dank für Ihren Besuch auf meinem Profil! Ich hoffe, wir können an spann
       <td><b>NYC-311-Analyseprojekt mit Snowflake und SQL-basierter Datenauswertung</b></td>
 </tr>
 <tr>
-      <td><a href="https://github.com/Danila-Kovalenko/MyJavaWork"><b>MyJavaWork</b></a></td>
-      <td><b>Java-Übungsrepository mit selbst erarbeiteten Beispielen</b></td>
-</tr>
-<tr>
       <td><a href="https://github.com/Danila-Kovalenko/My_Machine_Learning"><b>My_Machine_Learning</b></a></td>
       <td><b>Machine-Learning-Notebooks und praktische Modellierungsaufgaben</b></td>
 </tr>
@@ -110,6 +106,11 @@ Vielen Dank für Ihren Besuch auf meinem Profil! Ich hoffe, wir können an spann
       <td><b>Python-Übungsprojekt zur Verfolgung von Fitness-Aktivitäten</b></td>
 </tr>
 
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/MyJavaWork"><b>MyJavaWork</b></a></td>
+      <td><b>Java-Übungsrepository mit selbst erarbeiteten Beispielen</b></td>
+</tr>
+
   </tbody>
 </table>
 
@@ -118,28 +119,31 @@ Vielen Dank für Ihren Besuch auf meinem Profil! Ich hoffe, wir können an spann
 ###### -Python, Java, Shell, HTML, R
 
 #### Anwenderkenntnisse:
-###### -MS Office- und MS Excel-Kenntnisse, Tableau, RCloud
+###### -MS Office- und MS Excel-Kenntnisse, Tableau, RCloud, Power BI, Power Automate, Tabellenkalkulationssoftware, Reporting
 
 #### Frameworks:
 ###### -Django, FastAPI, Flask
 
 #### SQL:
-###### -MySQL, SQL, NoSQL, PostgreSQL
+###### -MySQL, SQL, NoSQL, PostgreSQL, Datenbankdesign und -administration
 
 #### Docker:
 ###### -Docker, Kubernetes, OpenShift
 
 #### Data & Analytics:
-###### -Data Engineering, ETL, Data Warehousing, Big Data, Data Management
+###### -Data Analytics, Data Engineering, ETL, Data Warehousing, Big Data, Data Management
 
 #### Machine Learning:
-###### -Machine Learning, Applied Machine Learning, Künstliche Neuronale Netze, Computer Vision, Natural Language Processing (NLP)
+###### -Machine Learning, Applied Machine Learning, Künstliche Neuronale Netze, Computer Vision, Natural Language Processing (NLP), PyTorch
 
 #### Statistik:
 ###### -Statistische Analyse, Wahrscheinlichkeitsverteilungen, Explorative Datenanalyse (EDA)
 
 #### Sicherheit:
 ###### -Netzwerksicherheit
+
+#### Cloud & Plattformen:
+###### -Amazon Web Services (AWS), Snowflake
 
 #### Sonstiges:
 ###### -Business Intelligence, Datenvisualisierung, Problemlösung, Apache
@@ -193,10 +197,6 @@ Thank you for visiting my profile! I hope we can collaborate on exciting project
 <tr>
       <td><a href="https://github.com/Danila-Kovalenko/nyc-311-snowflake-analytics"><b>nyc-311-snowflake-analytics</b></a></td>
       <td><b>NYC 311 analytics project using Snowflake and SQL-based data exploration</b></td>
-</tr>
-<tr>
-      <td><a href="https://github.com/Danila-Kovalenko/MyJavaWork"><b>MyJavaWork</b></a></td>
-      <td><b>Java practice repository with self-learning exercises and examples</b></td>
 </tr>
 <tr>
       <td><a href="https://github.com/Danila-Kovalenko/My_Machine_Learning"><b>My_Machine_Learning</b></a></td>
@@ -255,6 +255,11 @@ Thank you for visiting my profile! I hope we can collaborate on exciting project
       <td><b>Fitness tracking practice project built with Python</b></td>
 </tr>
 
+<tr>
+      <td><a href="https://github.com/Danila-Kovalenko/MyJavaWork"><b>MyJavaWork</b></a></td>
+      <td><b>Java practice repository with self-learning exercises and examples</b></td>
+</tr>
+
   </tbody>
 </table>
 
@@ -263,28 +268,31 @@ Thank you for visiting my profile! I hope we can collaborate on exciting project
 ###### -Python, Java, Shell, HTML, R
 
 #### User Skills:
-###### -MS Office and MS Excel skills, Tableau, RCloud
+###### -MS Office and MS Excel skills, Tableau, RCloud, Power BI, Power Automate, Spreadsheet Software, Reporting
 
 #### Frameworks:
 ###### -Django, FastAPI, Flask
 
 #### SQL:
-###### -MySQL, SQL, NoSQL, PostgreSQL
+###### -MySQL, SQL, NoSQL, PostgreSQL, Database Design and Administration
 
 #### Docker:
 ###### -Docker, Kubernetes, OpenShift
 
 #### Data & Analytics:
-###### -Data Engineering, ETL, Data Warehousing, Big Data, Data Management
+###### -Data Analytics, Data Engineering, ETL, Data Warehousing, Big Data, Data Management
 
 #### Machine Learning:
-###### -Machine Learning, Applied Machine Learning, Artificial Neural Networks, Computer Vision, Natural Language Processing (NLP)
+###### -Machine Learning, Applied Machine Learning, Artificial Neural Networks, Computer Vision, Natural Language Processing (NLP), PyTorch
 
 #### Statistics:
 ###### -Statistical Analysis, Probability Distribution, Exploratory Data Analysis (EDA)
 
 #### Security:
 ###### -Network Security
+
+#### Cloud & Platforms:
+###### -Amazon Web Services (AWS), Snowflake
 
 #### Other:
 ###### -Business Intelligence, Data Visualization, Problem Solving, Apache

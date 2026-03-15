@@ -6,7 +6,8 @@
 <p><a href="https://www.kaggle.com/danilakovalenko/"><img src="https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle&style=for-the-badge&logoColor=white" height=25></a>
 
 ### Über mich
-Ich bin Backend-Entwickler und Datenanalytiker mit Erfahrung im Lernen und Arbeiten an Webentwicklungsprojekten und in der Analyse von Big Data. Ich habe den Yandex-Praktikumskurs in Backend-Entwicklung abgeschlossen und die Coursera-Kurse in Backend-Entwicklung und Datenanalyse erfolgreich abgeschlossen.
+Als Data Analyst und Backend-Entwickler beschäftige ich mich mit Datenbanken, Datenverarbeitung, Machine Learning, Prognosen und Webentwicklung. Meine Kenntnisse habe ich mir durch eigenständiges Lernen, 
+praktische Projekte sowie durch Praxiserfahrungen bei DERTOUR und Yandex angeeignet. Ich bin motiviert, mich fachlich weiterzuentwickeln und meine Fähigkeiten in der Praxis einzusetzen. 
 ### Meine Erfolge
 - ✅ Abschluss des Yandex-Praktikums in Backend-Entwicklung.
 - ✅ Abschluss des Coursera-Professionelles Zertifikat in Google Data Analytics, [Hier ist mein Zertifikat](https://coursera.org/share/70423e7759ee5c3d052104e2be474f5e ).
@@ -152,7 +153,8 @@ Vielen Dank für Ihren Besuch auf meinem Profil! Ich hoffe, wir können an spann
 <p><a href="https://www.kaggle.com/danilakovalenko/"><img src="https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle&style=for-the-badge&logoColor=white" height=25></a>
 
 ### About Me
-I am a backend developer and a data analytic with experience in learning and working on web development projects and analysing big data. I have completed the Yandex Practicum course in backend development and successfully completed the Coursera courses in backend development and data analytics.
+As a data analyst and backend developer, I deal with databases, data processing, machine learning, forecasts and web development. I have gained my knowledge through independent learning, 
+practical projects, as well as acquired through practical experience at THETOUR and Yandex. I am motivated to develop professionally and to use my skills in practice.
 ### My Achievements
 - ✅ Completion of the Yandex Practicum course in backend development.
 - ✅ Completion of the Coursera Professional Certificate in Google Data Analytics, [Here is my certificate](https://coursera.org/share/70423e7759ee5c3d052104e2be474f5e).
